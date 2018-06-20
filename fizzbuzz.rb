@@ -7,6 +7,9 @@ if int%3
  elseif(int%5)
  "Buzz"
  elseif(int%15)
+ "FizzBuzz"
+ end
+
  end
 end
 
