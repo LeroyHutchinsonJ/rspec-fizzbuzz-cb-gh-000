@@ -8,9 +8,7 @@ if int%3
  "Buzz"
  elseif(int%15)
  "FizzBuzz"
- end
-
- end
 end
-
+end
+end
 end
