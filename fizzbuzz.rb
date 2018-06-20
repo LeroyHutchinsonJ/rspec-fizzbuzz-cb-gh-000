@@ -4,5 +4,9 @@
 def fizzbuzz(int)
 if int%3
  "Fizz"
+ elseif(int%5)
+ "Buzz"
+ end
 end
+
 end
